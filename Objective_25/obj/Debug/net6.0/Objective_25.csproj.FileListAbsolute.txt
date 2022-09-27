@@ -1,0 +1,15 @@
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\Objective_25.csproj.AssemblyReference.cache
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\Objective_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\Objective_25.AssemblyInfoInputs.cache
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\Objective_25.AssemblyInfo.cs
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\Objective_25.csproj.CoreCompileInputs.cache
+D:\heap_edu\C_sem_4_hw\Objective_25\bin\Debug\net6.0\Objective_25.exe
+D:\heap_edu\C_sem_4_hw\Objective_25\bin\Debug\net6.0\Objective_25.deps.json
+D:\heap_edu\C_sem_4_hw\Objective_25\bin\Debug\net6.0\Objective_25.runtimeconfig.json
+D:\heap_edu\C_sem_4_hw\Objective_25\bin\Debug\net6.0\Objective_25.dll
+D:\heap_edu\C_sem_4_hw\Objective_25\bin\Debug\net6.0\Objective_25.pdb
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\Objective_25.dll
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\refint\Objective_25.dll
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\Objective_25.pdb
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\Objective_25.genruntimeconfig.cache
+D:\heap_edu\C_sem_4_hw\Objective_25\obj\Debug\net6.0\ref\Objective_25.dll
